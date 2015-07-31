@@ -3,22 +3,22 @@
 Plugin Name: Per Page Sidebars
 Plugin URI: http://TheCodeCave.com/plugins/per-page-sidebars
 Description: Allows the creation and display of custom sidebars for each page on your site.
-Version: 2.0.0
+Version: 2.0.1
 Author: Brian Layman
 Author URI: http://eHermitsInc.com
 License: GPLv2
 Requires: 3.1.0
 Original Design Notes: 
-	In an Edit Page screen display a radio of all registered sidebars, save the choice it to postmeta. 
+	In an Edit Page screen display a radio button for all registered sidebars, save the choice it to postmeta. 
 	When a page is loaded/displayed, if the postmeta value exists overwrite the replaced sidebar's 
-	widgets with those setup for the custom sidebar. The sidebar settings MUST remain those created by 
-	the theme.
+		widgets with those setup for the custom sidebar. 
+	The sidebar settings MUST remain those created by the theme.
 	On the Widget page, all custom sidebars are listed and displayed for customization.
 	The post meta should start with an _ so it is hidden.
 	If you can't change widgets you shouldn't be able to create a custom sidebar.
 */
 
-/*	Copyright 2012 Brian Layman ( email : plugins@ehermitsinc.com )
+/*	Copyright 2014 Brian Layman ( email : plugins@ehermitsinc.com )
 
 		This program is free software; you can redistribute it and/or modify
 		it under the terms of the GNU General Public License, version 2, as 
