@@ -3,8 +3,8 @@ Contributors: BrianLayman
 Tags: posts, pages, sidebars, widgets
 Donate: http://thecodecave.com/donate
 Requires at least: 3.1
-Tested up to: 3.4
-Stable tag: 2.0.0
+Tested up to: 4.2.3
+Stable tag: 2.0.2
 
 The Per Page Sidebars (PPS) plugin allows blog administrators to create a unique sidebar for each Page. No template editing is required.
 
@@ -69,12 +69,22 @@ A user can only replace a sidebar on a page if their role has the *edit_theme_op
 
 == Changelog ==
 
-= 1.0.0 =
+= 2.0.2 =
 
-* Initial release.
+* Updated version for the current release
+
+= 2.0.1 = (Unreleased)
+
+* Updated for the current release
+* Added code to support sidebars on the home page
 
 = 2.0.0 =
 
 * Added the ability to activate custom sidebars on posts
 * Fixed a bug that caused the wrong custom sidebar to be displayed on the page that was assigned as the Post page
 * Added screenshots and video to the documentation of the plugin
+
+= 1.0.0 =
+
+* Initial release.
+
